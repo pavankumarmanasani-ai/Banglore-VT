@@ -1,7 +1,12 @@
 {
-  "project": "Bangalore VotaryTech",
-  "environment": "dev",
-  "message": "Second sync test",
-  "version": 2
+  "project": "Bangalore VT",
+  "status": "ready",
+  "updatedAt": "2026-01-23",
+  "modules": {
+    "bsp": true,
+    "display": true,
+    "wheeler2": true,
+    "wheeler4": true
+  }
 }
 
