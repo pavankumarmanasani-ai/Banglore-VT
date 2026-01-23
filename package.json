@@ -1,9 +1,0 @@
-{
-  "name": "github-to-firebase-sync",
-  "version": "1.0.0",
-  "main": "syncToFirebase.js",
-  "dependencies": {
-    "firebase-admin": "^12.0.0"
-  }
-}
-
